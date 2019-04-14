@@ -17,7 +17,7 @@ import CreateMovieContainer from './container/createMovieContainer';
 import MovieHeader from "./components/movieHeader";
 import MovieOverview from './container/movieOverview';
 import MovieForm from './components/movieForm';
-import MovieList from "./components/movieList";
+
 
 const store = configureStore();
 
