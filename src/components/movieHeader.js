@@ -14,7 +14,7 @@ import {
     DropdownMenu,
     DropdownItem } from 'reactstrap';
 
-export default class movieHeader extends React.Component {
+export default class MovieHeader extends React.Component {
     constructor(props) {
         super(props);
 
